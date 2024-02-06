@@ -1,5 +1,4 @@
 package loops;
-
 public class AgeClassifier {
     public static void main(String[] args) {
         printPersonType(8);
@@ -17,3 +16,4 @@ public class AgeClassifier {
         }
     }
 }
+
